@@ -1,0 +1,884 @@
+﻿<XtraSerializer version="1.0" application="DevExpress.XtraBars.Ribbon.RibbonCustomizationModel">
+  <property name="Categories" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Pages" iskey="true" value="5">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Groups" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">63</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">用户名:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">3</property>
+                  </property>
+                  <property name="Text">用户名:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">64</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">密   码:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">4</property>
+                  </property>
+                  <property name="Text">密   码:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">62</property>
+              </property>
+              <property name="Alias">输入</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">2</property>
+              </property>
+              <property name="Text">输入</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">66</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">记住密码</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">6</property>
+                  </property>
+                  <property name="Text">记住密码</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">67</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">自动登录</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">7</property>
+                  </property>
+                  <property name="Text">自动登录</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">65</property>
+              </property>
+              <property name="Alias" />
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">5</property>
+              </property>
+              <property name="Text" />
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">69</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">登录</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">9</property>
+                  </property>
+                  <property name="Text">登录</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">70</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">登出</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">10</property>
+                  </property>
+                  <property name="Text">登出</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">68</property>
+              </property>
+              <property name="Alias" />
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">8</property>
+              </property>
+              <property name="Text" />
+              <property name="IsVisible">true</property>
+            </property>
+          </property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">61</property>
+          </property>
+          <property name="Alias">用户登录</property>
+          <property name="IsCustom">false</property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">1</property>
+          </property>
+          <property name="Text">用户登录</property>
+          <property name="IsVisible">false</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="Groups" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="6">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">73</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">X:11.99</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">13</property>
+                  </property>
+                  <property name="Text">X:11.99</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">74</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Y:-51.018</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">14</property>
+                  </property>
+                  <property name="Text">Y:-51.018</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">75</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Z:219.649</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">15</property>
+                  </property>
+                  <property name="Text">Z:219.649</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">76</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">RX:7.143</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">16</property>
+                  </property>
+                  <property name="Text">RX:7.143</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item5" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">77</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">RY:-42.84</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">17</property>
+                  </property>
+                  <property name="Text">RY:-42.84</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item6" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">78</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">RZ:0</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">18</property>
+                  </property>
+                  <property name="Text">RZ:0</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">72</property>
+              </property>
+              <property name="Alias">工具</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">12</property>
+              </property>
+              <property name="Text">工具</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="6">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">80</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j1:0</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">20</property>
+                  </property>
+                  <property name="Text">j1:0</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">81</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j2:0.489</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">21</property>
+                  </property>
+                  <property name="Text">j2:0.489</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">82</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j3:2.132</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">22</property>
+                  </property>
+                  <property name="Text">j3:2.132</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">83</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j4:2.378</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">23</property>
+                  </property>
+                  <property name="Text">j4:2.378</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item5" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">84</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j5:0</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">24</property>
+                  </property>
+                  <property name="Text">j5:0</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item6" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">85</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j6:0</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">25</property>
+                  </property>
+                  <property name="Text">j6:0</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">79</property>
+              </property>
+              <property name="Alias">安全点</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">19</property>
+              </property>
+              <property name="Text">安全点</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="6">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">87</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j1:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">27</property>
+                  </property>
+                  <property name="Text">j1:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">88</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j2:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">28</property>
+                  </property>
+                  <property name="Text">j2:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">89</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j3:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">29</property>
+                  </property>
+                  <property name="Text">j3:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">90</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j4:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">30</property>
+                  </property>
+                  <property name="Text">j4:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item5" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">91</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j5:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">31</property>
+                  </property>
+                  <property name="Text">j5:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item6" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">92</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">j6:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">32</property>
+                  </property>
+                  <property name="Text">j6:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">86</property>
+              </property>
+              <property name="Alias">关节值</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">26</property>
+              </property>
+              <property name="Text">关节值</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item4" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="6">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">94</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">X:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">34</property>
+                  </property>
+                  <property name="Text">X:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">95</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Y:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">35</property>
+                  </property>
+                  <property name="Text">Y:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">96</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Z:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">36</property>
+                  </property>
+                  <property name="Text">Z:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">97</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">RX:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">37</property>
+                  </property>
+                  <property name="Text">RX:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item5" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">98</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">RY:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">38</property>
+                  </property>
+                  <property name="Text">RY:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item6" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">99</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">RZ:</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">39</property>
+                  </property>
+                  <property name="Text">RZ:</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">93</property>
+              </property>
+              <property name="Alias">世界坐标系</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">33</property>
+              </property>
+              <property name="Text">世界坐标系</property>
+              <property name="IsVisible">true</property>
+            </property>
+          </property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">71</property>
+          </property>
+          <property name="Alias">机器信息</property>
+          <property name="IsCustom">false</property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">11</property>
+          </property>
+          <property name="Text">机器信息</property>
+          <property name="IsVisible">false</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="Groups" iskey="true" value="2">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">102</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">皮肤</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">42</property>
+                  </property>
+                  <property name="Text">皮肤</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">101</property>
+              </property>
+              <property name="Alias">皮肤</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">41</property>
+              </property>
+              <property name="Text">皮肤</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">104</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">全部展开</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">44</property>
+                  </property>
+                  <property name="Text">全部展开</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">105</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">全部收拢</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">45</property>
+                  </property>
+                  <property name="Text">全部收拢</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">103</property>
+              </property>
+              <property name="Alias">项布局</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">43</property>
+              </property>
+              <property name="Text">项布局</property>
+              <property name="IsVisible">true</property>
+            </property>
+          </property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">100</property>
+          </property>
+          <property name="Alias">布局管理</property>
+          <property name="IsCustom">false</property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">40</property>
+          </property>
+          <property name="Text">布局管理</property>
+          <property name="IsVisible">false</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="Groups" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">108</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">8C1A2FA4BFEBFBFF000206A7</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">48</property>
+                  </property>
+                  <property name="Text">8C1A2FA4BFEBFBFF000206A7</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">109</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">另存为</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">49</property>
+                  </property>
+                  <property name="Text">另存为</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">107</property>
+              </property>
+              <property name="Alias">机器码</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">47</property>
+              </property>
+              <property name="Text">机器码</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">111</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">ToolCode</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">51</property>
+                  </property>
+                  <property name="Text">ToolCode</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">110</property>
+              </property>
+              <property name="Alias">注册码</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">50</property>
+              </property>
+              <property name="Text">注册码</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">113</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">未注册</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">53</property>
+                  </property>
+                  <property name="Text">未注册</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">112</property>
+              </property>
+              <property name="Alias">注册状态</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">52</property>
+              </property>
+              <property name="Text">注册状态</property>
+              <property name="IsVisible">true</property>
+            </property>
+          </property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">106</property>
+          </property>
+          <property name="Alias">软件注册</property>
+          <property name="IsCustom">false</property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">46</property>
+          </property>
+          <property name="Text">软件注册</property>
+          <property name="IsVisible">false</property>
+        </property>
+        <property name="Item5" isnull="true" iskey="true">
+          <property name="Groups" iskey="true" value="2">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">116</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">上位机版本：3.0</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">56</property>
+                  </property>
+                  <property name="Text">上位机版本：3.0</property>
+                  <property name="IsVisible">true</property>
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">117</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">下位机版本：3.0</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">57</property>
+                  </property>
+                  <property name="Text">下位机版本：3.0</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">115</property>
+              </property>
+              <property name="Alias">版本信息</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">55</property>
+              </property>
+              <property name="Text">版本信息</property>
+              <property name="IsVisible">true</property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">119</property>
+                  </property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">链接</property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">59</property>
+                  </property>
+                  <property name="Text">链接</property>
+                  <property name="IsVisible">true</property>
+                </property>
+              </property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">118</property>
+              </property>
+              <property name="Alias">用户手册</property>
+              <property name="IsCustom">false</property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">58</property>
+              </property>
+              <property name="Text">用户手册</property>
+              <property name="IsVisible">true</property>
+            </property>
+          </property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">114</property>
+          </property>
+          <property name="Alias">帮助信息</property>
+          <property name="IsCustom">false</property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">54</property>
+          </property>
+          <property name="Text">帮助信息</property>
+          <property name="IsVisible">false</property>
+        </property>
+      </property>
+      <property name="IdInfo" isnull="true" iskey="true">
+        <property name="Id">60</property>
+      </property>
+      <property name="Alias">(Unassigned Pages)</property>
+      <property name="IsCustom">false</property>
+      <property name="SourceIdInfo" isnull="true" iskey="true">
+        <property name="Id">0</property>
+      </property>
+      <property name="Text">(Unassigned Pages)</property>
+      <property name="IsVisible">true</property>
+    </property>
+  </property>
+</XtraSerializer>

@@ -1,0 +1,23 @@
+PRODUCT=TEST
+TOOL=11.99 ,-1.018,219.649,0    ,-42.84 ,4.216
+TOTALELEMENTS=1
+FRAME=0,0,0,0,0,0
+OFFSET=0,0,0,0,0,0
+PRESET=StaubliPreset
+
+
+BEGIN=TEST_1
+BYPASS=FALSE
+CUTTYPE=10
+ARRAY=1,0    ,1,0    ,0,0    
+POINTCOUNT=1,1,1
+FRAME=0    ,0    ,0    ,0    ,0    ,0    
+OFFSET=0    ,0    ,0    ,0    ,0    ,0    
+DOWNLEAD=1    ,100    ,0    ,0    ,0    ,0    
+WORKPLACE=0    ,0    ,0    ,0    ,0    ,0    
+MOVEJ=0    ,0    ,0    ,0    ,0    ,0    /100,10
+DELAYON=0.3  
+MOVEL=161.99 ,-1.018,2079.649,0    ,-42.84 ,4.216/1,0/100,10,5   
+DELAYOFF=0    
+MOVEJ=0    ,0    ,0    ,0    ,0    ,0    /100,10
+END=TEST_1

@@ -1,0 +1,68 @@
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\LasMAN.exe.config
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.exe
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Add_Preset.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Edit_Ip.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Edit_User.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Axis.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_CS8C.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Infor.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Main.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Monitor.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Position.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Product.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Sys.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_User.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Sel_Recipe.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Std_DataView.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.Std_Form.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\DualRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Debug\LasMAN.exe.licenses
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\LasMAN.exe
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\LasMAN.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.Data.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.Utils.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.XtraBars.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\DevExpress.XtraNavBar.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\Framework.Controls.ProgressBar.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\Gigasoft.ProEssentials.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliDataBaseManage.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliFtpClient.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliUI.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliVal3.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliXML.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\System.Data.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliVal3.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliFtpClient.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliXML.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliUI.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliDataBaseManage.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Debug\StaubliSoapClient.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Debug\DualRobot.exe.config
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Debug\DualRobot.exe.config
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Add_Preset.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Edit_Ip.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Edit_User.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Axis.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Infor.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Main.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Monitor.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_Position.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Frm_User.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Sel_Recipe.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Std_DataView.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Properties.Resources.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\LasMAN.Std_Form.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\DualRobot.csproj.GenerateResource.Cache
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Debug\DualRobot.exe.licenses

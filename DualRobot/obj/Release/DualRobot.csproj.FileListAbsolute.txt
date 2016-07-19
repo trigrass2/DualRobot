@@ -1,0 +1,203 @@
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\LasMAN.exe.config
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.exe
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\LasMAN.exe
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\LasMAN.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.BonusSkins.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.Data.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.Printing.v12.1.Core.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.Utils.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.XtraBars.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.XtraEditors.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.XtraGrid.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.XtraLayout.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\DevExpress.XtraNavBar.v12.1.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\Framework.Controls.ProgressBar.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\Gigasoft.ProEssentials.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliDataBaseManage.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliFtpClient.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliUI.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliVal3.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliXML.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\System.Data.dll
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliVal3.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliFtpClient.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliXML.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliUI.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliDataBaseManage.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\bin\Release\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Add_Preset.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Edit_Ip.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Edit_User.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Axis.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_CS8C.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Infor.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Main.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Monitor.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Position.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Sys.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Frm_User.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Sel_Recipe.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Std_DataView.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.Std_Form.resources
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\DualRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\DualRobot\DualRobot\obj\Release\LasMAN.exe.licenses
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.BonusSkins.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.Data.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.Printing.v12.1.Core.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.Utils.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraBars.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraEditors.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraGrid.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraLayout.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraNavBar.v12.1.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\System.Data.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraEditors.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\StaubliVal3.pdb
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.Utils.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\StaubliFtpClient.pdb
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\StaubliXML.pdb
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraLayout.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraNavBar.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.Printing.v12.1.Core.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraBars.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.XtraGrid.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DevExpress.Data.v12.1.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\StaubliDataBaseManage.pdb
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\StaubliSoapClient.pdb
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\StaubliSoapClient.xml
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\de\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\es\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ja\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\ru\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\ResolveAssemblyReference.cache
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Add_Preset.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Edit_Ip.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Edit_User.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Axis.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Infor.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Main.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Monitor.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Position.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Frm_User.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Sel_Recipe.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Std_DataView.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Properties.Resources.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\LasMAN.Std_Form.resources
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\DualRobot.csproj.GenerateResource.Cache
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DualRobot.exe.config
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\DualRobot.exe.licenses
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DualRobot.exe
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\bin\Release\DualRobot.pdb
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\DualRobot.exe
+D:\Yanjie\项目\重庆大学双臂机器人\DualRobot\DualRobot\obj\Release\DualRobot.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DualRobot.exe.config
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\DualRobot.exe
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\DualRobot.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DualRobot.exe
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DualRobot.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.BonusSkins.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.Data.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.Printing.v12.1.Core.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.Utils.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraBars.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraEditors.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraGrid.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraLayout.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraNavBar.v12.1.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\System.Data.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraEditors.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\StaubliVal3.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.Utils.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\StaubliFtpClient.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\StaubliXML.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraLayout.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraNavBar.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.Printing.v12.1.Core.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraBars.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.XtraGrid.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\DevExpress.Data.v12.1.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\StaubliDataBaseManage.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\StaubliSoapClient.pdb
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\StaubliSoapClient.xml
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\de\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\es\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ja\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\bin\Release\ru\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\ResolveAssemblyReference.cache
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Add_Preset.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Edit_Ip.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Edit_User.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Axis.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Infor.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Main.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Monitor.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Frm_Position.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Frm_User.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Sel_Recipe.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Std_DataView.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Properties.Resources.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\LasMAN.Std_Form.resources
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\DualRobot.csproj.GenerateResource.Cache
+D:\Yanjie\SourceCode\DualRobot\DualRobot\DualRobot\obj\Release\DualRobot.exe.licenses

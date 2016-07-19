@@ -1,0 +1,151 @@
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\LasMAN.exe
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\LasMAN.pdb
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.Properties.Resources.resources
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.exe.licenses
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.exe
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.pdb
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.Frm_Main.resources
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.Std_Form.resources
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\Framework.Controls.ProgressBar.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\Gigasoft.ProEssentials.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliUI.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliVal3.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliXML.dll
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliXML.pdb
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliVal3.pdb
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliUI.pdb
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\My Documents\Visual Studio 2008\Projects\LasMAN\LasMAN\obj\Debug\LasMAN.Frm_Test.resources
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.exe
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.pdb
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\LasMAN.exe
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\LasMAN.pdb
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\Framework.Controls.ProgressBar.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\Gigasoft.ProEssentials.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliSoapClient.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliUI.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliVal3.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliXML.dll
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliXML.pdb
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliVal3.pdb
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliUI.pdb
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliSoapClient.pdb
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\bin\Debug\StaubliSoapClient.xml
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Main.resources
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Test.resources
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Properties.Resources.resources
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Std_Form.resources
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.csproj.GenerateResource.Cache
+C:\Documents and Settings\YYE\Desktop\LasMAN3.0\LasMAN\obj\Debug\LasMAN.exe.licenses
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.exe
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\LasMAN.exe
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\LasMAN.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\Gigasoft.ProEssentials.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliSoapClient.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliUI.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliVal3.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliXML.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliXML.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliVal3.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliUI.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliSoapClient.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliSoapClient.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\ResolveAssemblyReference.cache
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Main.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Properties.Resources.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Std_Form.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.csproj.GenerateResource.Cache
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.exe.licenses
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.Data.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.Utils.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraBars.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraNavBar.v12.1.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.Utils.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraNavBar.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraBars.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\DevExpress.Data.v12.1.xml
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliDataBaseManage.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliDataBaseManage.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Recipe.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Preset.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliFtpClient.dll
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\StaubliFtpClient.pdb
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Std_DataView.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Product.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Sel_Recipe.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\bin\Debug\LasMAN.exe.config
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Recipe.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Action.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_StaubliPreset.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Preset.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Wait.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Modbus.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Action.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Traj.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Batch_Speed.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Batch_Traj.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Cut.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Sequen.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Infor.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Sys.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Position.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_HomeTcp.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_PCAlarm.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_User.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Cs8cAlarm.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.TE_AIO.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Edit_Ip.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Monitor.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.DE_2.resources
+D:\Yanjie\备份报告\LasMAN3.0\LasMAN\obj\Debug\LasMAN.Frm_Axis.resources
